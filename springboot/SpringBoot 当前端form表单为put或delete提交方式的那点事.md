@@ -32,8 +32,8 @@
   * 1）、springboot 为我们配置了 ==HiddenHttpMethodFilter== 
   * 2）、==HiddenHttpMethodFilter== 为我们进行了浏览器表单提交方式的修改
     * 源码：
-      * ![image-20191120230147072](D:\Typora\data\springboot\images\image-20191120230147072.png)
-      * ![image-20191120230709365](D:\Typora\data\springboot\images\image-20191120230709365.png)
+      * ![image-20200205104926447](images/SpringBoot%20%E5%BD%93%E5%89%8D%E7%AB%AFform%E8%A1%A8%E5%8D%95%E4%B8%BAput%E6%88%96delete%E6%8F%90%E4%BA%A4%E6%96%B9%E5%BC%8F%E7%9A%84%E9%82%A3%E7%82%B9%E4%BA%8B.assets/image-20200205104926447.png)
+      * ![image-20200205104941657](images/SpringBoot%20%E5%BD%93%E5%89%8D%E7%AB%AFform%E8%A1%A8%E5%8D%95%E4%B8%BAput%E6%88%96delete%E6%8F%90%E4%BA%A4%E6%96%B9%E5%BC%8F%E7%9A%84%E9%82%A3%E7%82%B9%E4%BA%8B.assets/image-20200205104941657.png)
 
 
 
